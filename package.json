@@ -1,0 +1,34 @@
+{
+  "name": "surrealdb-vscode-theme",
+  "displayName": "SurrealDB Theme (unofficial)",
+  "description": "A theme based off the code theme seen on SurrealDB's docs site.",
+  "publisher": "thomporter",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "surrealdb",
+    "purple"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomporter/surrealdb-vscode-theme.git"
+  },
+  "homepage": "https://www.thomporter.com/blog/surrealdb-vscode-theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SurrealDB Theme (unofficial)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SurrealDB Theme (unofficial)-color-theme.json"
+      }
+    ]
+  }
+}
