@@ -15,7 +15,7 @@
     "url": "https://github.com/thomporter/surrealdb-vscode-theme.git"
   },
   "homepage": "https://www.thomporter.com/blog/surrealdb-vscode-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.87.0"
   },
